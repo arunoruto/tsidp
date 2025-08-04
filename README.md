@@ -1,6 +1,6 @@
 # tsidp
 
-> [!WRNING]  
+> [!WARNING]  
 > Tailscale provides an official tsidp image now: https://hub.docker.com/r/tailscale/tsidp
 
 > [!NOTE]  
