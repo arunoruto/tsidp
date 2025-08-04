@@ -1,5 +1,8 @@
 # tsidp
 
+> [!WRNING]  
+> Tailscale provides an official tsidp image now: https://hub.docker.com/r/tailscale/tsidp
+
 > [!NOTE]  
 > This repository is automated! Please look at the package versions
 > [here](https://github.com/arunoruto/tsidp/pkgs/container/tsidp).
