@@ -1,5 +1,10 @@
 # tsidp
 
+> [!IMPORTANT]  
+> Tailscale moved the development of TSIDP from their monorepo to a dedicated one: https://github.com/tailscale/tsidp (which is the reason the builds of this repo don't work anymore).
+> They also provide a Docker container and will be updating it with newer Tailscale versions.
+> I will be archiving this repository! Please move to the official container!
+
 > [!WARNING]  
 > Tailscale provides an official tsidp image now: https://hub.docker.com/r/tailscale/tsidp
 
